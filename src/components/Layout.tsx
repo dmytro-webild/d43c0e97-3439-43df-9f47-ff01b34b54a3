@@ -106,7 +106,7 @@ export default function Layout() {
           ]}
           copyright="© 2026 Rödl & Herdegen Bauunternehmen GmbH. Alle Rechte vorbehalten."
           backToTop="Nach oben"
-          imageSrc="https://img.b2bpic.net/free-photo/cup-drafting-supplies-plans_23-2147831903.jpg"
+          imageSrc="https://img.b2bpic.net/free-photo/cup-drafting-supplies-plans_23-2147831903.jpg?_wi=2"
           imageAlt="Bauzeichnungen und Messwerkzeuge auf einem Bauplan"
           ariaLabel="Fußzeile"
         />
