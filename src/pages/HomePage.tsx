@@ -160,7 +160,7 @@ export default function HomePage() {
               name: "Florian Schmidt",
               role: "Bauherr, Regensburg",
               label: "Rohbau",
-              imageSrc: "https://img.b2bpic.net/free-photo/cup-drafting-supplies-plans_23-2147831903.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/cup-drafting-supplies-plans_23-2147831903.jpg?_wi=1",
               imageAlt: "drafting tools on construction plans"
             }
           ]}
