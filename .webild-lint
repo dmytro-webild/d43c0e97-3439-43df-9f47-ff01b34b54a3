@@ -1,0 +1,10 @@
+src/components/Layout.tsx
+src/components/sections/about/AboutParticleMast.tsx
+src/components/sections/contact/ContactTickForm.tsx
+src/components/sections/faq/FaqNumberedRows.tsx
+src/components/sections/features/ServicesFieldCards.tsx
+src/components/sections/footer/FooterFieldWordmark.tsx
+src/components/sections/hero/HeroParticleIsland.tsx
+src/components/sections/metrics/MetricsParticleField.tsx
+src/components/sections/testimonial/TestimonialCaseSlider.tsx
+src/pages/HomePage.tsx
